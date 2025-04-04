@@ -21,7 +21,9 @@ The data is stored in the file /datasets/movies_and_shows.csv.
 'release_year' — year when the movie (show) was released
 'imdb_score' — score on IMDb
 'imdb_votes' — votes on IMDb
+
 **Instructions for completing the project**
+
 
 A template of a Jupyter Notebook is provided for you where you can write your code, along with descriptions of your analysis. To complete the project, you must fill in every code cell in the template and edit markdown cells where the template asks you to explain your results.
 

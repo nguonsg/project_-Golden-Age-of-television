@@ -1,4 +1,5 @@
 **Introduction**
+
 In this project, you will work with data from the entertainment industry. You will study a dataset with records on movies and shows. The research will focus on the “Golden Age” of television, which began in 1999 with the release of The Sopranos and is still ongoing.
 
 The aim of this project is to investigate how the number of votes a title receives from IMDb users impacts its ratings. The assumption is that highly-rated shows (we will focus on TV shows, ignoring movies) released during the “Golden Age” of television also have the most votes.
@@ -10,6 +11,7 @@ The data is stored in the file /datasets/movies_and_shows.csv.
 
 **Description of columns:**
 
+
 'name' — first and last name of actor (director)
 'character' — character played (for actors)
 'role ' — the person’s contribution to the title (it can be in the capacity either of actor or director)
@@ -20,6 +22,7 @@ The data is stored in the file /datasets/movies_and_shows.csv.
 'imdb_score' — score on IMDb
 'imdb_votes' — votes on IMDb
 **Instructions for completing the project**
+
 A template of a Jupyter Notebook is provided for you where you can write your code, along with descriptions of your analysis. To complete the project, you must fill in every code cell in the template and edit markdown cells where the template asks you to explain your results.
 
 In later sprints, the work will be more independent. This time, to help you get started, we’ll provide a notebook containing:
